@@ -1,0 +1,45 @@
+{
+    "question": "štěká ?",
+    "yes": {
+        "animal": "pes"
+    },
+    "no": {
+        "question": "mňouká ?",
+        "yes": {
+            "animal": "kočka"
+        },
+        "no": {
+            "question": "chrochtá ?",
+            "yes": {
+                "animal": "prase"
+            },
+            "no": {
+                "question": "plave ?",
+                "yes": {
+                    "question": "je to savec ?",
+                    "yes": {
+                        "animal": "tuleň"
+                    },
+                    "no": {
+                        "question": "má chapadla ?",
+                        "yes": {
+                            "animal": "chobotnice"
+                        },
+                        "no": {
+                            "animal": "ryba"
+                        }
+                    }
+                },
+                "no": {
+                    "question": "létá ?",
+                    "yes": {
+                        "animal": "pták"
+                    },
+                    "no": {
+                        "animal": "lev"
+                    }
+                }
+            }
+        }
+    }
+}

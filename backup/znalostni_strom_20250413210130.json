@@ -1,0 +1,15 @@
+{
+    "question": "štěká ?",
+    "yes": {
+        "animal": "pes"
+    },
+    "no": {
+        "question": "mňouká ?",
+        "yes": {
+            "animal": "kočka"
+        },
+        "no": {
+            "animal": "lev"
+        }
+    }
+}

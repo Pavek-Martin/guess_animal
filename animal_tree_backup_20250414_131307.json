@@ -1,0 +1,16 @@
+{
+    "question": "štěká ?",
+    "animal": null,
+    "yes": {
+        "question": null,
+        "animal": "pes",
+        "yes": null,
+        "no": null
+    },
+    "no": {
+        "question": null,
+        "animal": "lev",
+        "yes": null,
+        "no": null
+    }
+}

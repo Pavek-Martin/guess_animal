@@ -1,0 +1,9 @@
+{
+    "question": "štěká ?",
+    "yes": {
+        "animal": "pes"
+    },
+    "no": {
+        "animal": "lev"
+    }
+}

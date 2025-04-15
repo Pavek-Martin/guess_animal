@@ -1,0 +1,27 @@
+{
+    "question": "štěká ?",
+    "yes": {
+        "animal": "pes"
+    },
+    "no": {
+        "question": "mňouká ?",
+        "yes": {
+            "animal": "kočka"
+        },
+        "no": {
+            "question": "chrochtá ?",
+            "yes": {
+                "animal": "prase"
+            },
+            "no": {
+                "question": "plave ?",
+                "yes": {
+                    "animal": "ryba"
+                },
+                "no": {
+                    "animal": "lev"
+                }
+            }
+        }
+    }
+}

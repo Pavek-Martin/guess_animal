@@ -1,0 +1,9 @@
+{
+    "question": "steka ?",
+    "yes": {
+        "animal": "pes"
+    },
+    "no": {
+        "animal": "lev"
+    }
+}

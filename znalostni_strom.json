@@ -1,0 +1,117 @@
+{
+    "question": "štěká ?",
+    "yes": {
+        "animal": "pes"
+    },
+    "no": {
+        "question": "mňouká ?",
+        "yes": {
+            "animal": "kočka"
+        },
+        "no": {
+            "question": "chrochtá ?",
+            "yes": {
+                "question": "žije v lese ?",
+                "yes": {
+                    "animal": "divočák"
+                },
+                "no": {
+                    "animal": "prase"
+                }
+            },
+            "no": {
+                "question": "plave ?",
+                "yes": {
+                    "question": "je to savec ?",
+                    "yes": {
+                        "question": "je obrovský ?",
+                        "yes": {
+                            "animal": "velryba"
+                        },
+                        "no": {
+                            "animal": "tuleň"
+                        }
+                    },
+                    "no": {
+                        "question": "má chapadla ?",
+                        "yes": {
+                            "animal": "chobotnice"
+                        },
+                        "no": {
+                            "question": "je obrovský ?",
+                            "yes": {
+                                "animal": "ryba"
+                            },
+                            "no": {
+                                "animal": "velryba"
+                            }
+                        }
+                    }
+                },
+                "no": {
+                    "question": "létá ?",
+                    "yes": {
+                        "question": "bzuĉí ?",
+                        "yes": {
+                            "question": "je užitečná ?",
+                            "yes": {
+                                "animal": "vĉela"
+                            },
+                            "no": {
+                                "question": "je pruhovaná ?",
+                                "yes": {
+                                    "animal": "vosa"
+                                },
+                                "no": {
+                                    "animal": "komár"
+                                }
+                            }
+                        },
+                        "no": {
+                            "animal": "pták"
+                        }
+                    },
+                    "no": {
+                        "question": "žije v lese ?",
+                        "yes": {
+                            "question": "chrochtá ?",
+                            "yes": {
+                                "animal": "divočák"
+                            },
+                            "no": {
+                                "animal": "jelen"
+                            }
+                        },
+                        "no": {
+                            "question": "má kopyta ?",
+                            "yes": {
+                                "animal": "velbloud"
+                            },
+                            "no": {
+                                "question": "je malý ?",
+                                "yes": {
+                                    "question": "je to domací zvíře ?",
+                                    "yes": {
+                                        "animal": "křeček"
+                                    },
+                                    "no": {
+                                        "animal": "myš"
+                                    }
+                                },
+                                "no": {
+                                    "question": "syčí ?",
+                                    "yes": {
+                                        "animal": "had"
+                                    },
+                                    "no": {
+                                        "animal": "lev"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

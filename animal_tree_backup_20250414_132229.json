@@ -1,0 +1,46 @@
+{
+    "question": "štěká ?",
+    "animal": null,
+    "yes": {
+        "question": null,
+        "animal": "pes",
+        "yes": null,
+        "no": null
+    },
+    "no": {
+        "question": "mnouká ?",
+        "animal": null,
+        "yes": {
+            "question": null,
+            "animal": "kočka",
+            "yes": null,
+            "no": null
+        },
+        "no": {
+            "question": "plave ?",
+            "animal": null,
+            "yes": {
+                "question": "je velká ?",
+                "animal": null,
+                "yes": {
+                    "question": null,
+                    "animal": "velryba",
+                    "yes": null,
+                    "no": null
+                },
+                "no": {
+                    "question": null,
+                    "animal": "ryba",
+                    "yes": null,
+                    "no": null
+                }
+            },
+            "no": {
+                "question": null,
+                "animal": "lev",
+                "yes": null,
+                "no": null
+            }
+        }
+    }
+}
