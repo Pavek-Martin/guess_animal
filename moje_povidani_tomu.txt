@@ -12,9 +12,11 @@ tento program pamatuji jeste z dob kdy v 80tych letech bezel na nasich domacich
 v te dobe si samozdrejme vetsine uzivatelu tehdejsicjh pocitacu ( snad z vyjimnou Amigy )
 mohlo a nejakem ukladani dat nechat jenom zdat a o souborovem system taky, zde opet commodore Amiga
 kralovala, naprosto bezkonkurencne, dokonce jsou i taci jedinci kteri ji chvaly jeste dnes...
-jeste pamatuju jednoho cloveka ktery se pysnil vlasnosti pocitace "SAM" ze pri umi na konec
+jeste pamatuju jednoho človeka ktery se pysnil vlasnosti pocitace "SAM" ze pri umi na konec
 basicovskeho programu sam sobe vkladat nove radky a takto se to pak da nahrat na magnetofonovou
-kazetu ( jestli i disketu si ted nejsem jisty ) takze jakasi "funkce" ukadani dat z programu
+kazetu ( jestli i disketu si ted nejsem jisty ) a príste kdyz se to "loudne" z kazetaku, tak je
+zase vo fous chytrejsi, takze jakasi "funkce" ukadani dat vygenerovaných programem, neco
+co dnes kazdemu prijde jako uplna samozdrejmost, ale nebylo to tak vzdy...
 klasicka situace byla takova, ze clovek 2 hodiny neco datlovat a kdyz se pak na pocitaci
 zmacklo tlacito reset, tak bylo vse nenavratatnu a mohlo se zacit znovu
 takze takova mala pripominka toho jak to asi vsechno mozna kdysi zacalo
@@ -22,6 +24,4 @@ takze takova mala pripominka toho jak to asi vsechno mozna kdysi zacalo
 pozn. soubor "guess_animal_4_osetreni_vstupu.sh" je posledni verze, ktera pobezi ciste jenom v terminalu
 potom vyssi verze "guess_animal_5_GUI.sh" a "guess_animal_6_ALL.sh" uz pouzivaj graficky rozhrani
 
-
-14.4.2025
-
+17.4.2025
