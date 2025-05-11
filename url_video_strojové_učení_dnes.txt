@@ -11,4 +11,3 @@ textový soubor obahuje iformaci o poloze pixelu v obrázku
 a RGB barvu příslušného bodu převody textovyho souboru na 
 obrázek jsem používal v jiném svojim programu který mam zde
 https://github.com/Pavek-Martin/primebox_2
-
