@@ -1,7 +1,14 @@
 https://www.youtube.com/watch?v=o9TwtMywEuI
 
-11.5.2025
-po shédnutí tohoto videa na které je zde odkaz nahoře jem dnes ještě přidol do repoxitaře archiv "prevod_obrazku_do_textu_a_naopak.rar" kde jsou přiklady jak se dá převect malý obrázek do textoveho souboru a nebo naopak, lze to udělat pomocí programu ImageMagick, je verze pro Linux i pro Windows, textový soubor obahuje i formaci o poloze pixelu v obrázku a RGB barvu příslušného bodu
-
-
+doplněno 11.5.2025
+po shédnutí tohoto videa na které je zde odkaz nahoře jsem dnes
+ještě přidal do repoxitaře archiv
+"prevod_obrazku_do_textu_a_naopak.rar" 
+kde jsou přiklady jak se dá převect malý obrázek do textoveho 
+souboru a nebo naopak, lze to udělat pomocí programu 
+ImageMagick, je verze pro Linux i pro Windows
+textový soubor obahuje iformaci o poloze pixelu v obrázku 
+a RGB barvu příslušného bodu převody textovyho souboru na 
+obrázek jsem používal v jiném svojim programu který mam zde
+https://github.com/Pavek-Martin/primebox_2
 
